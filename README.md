@@ -1,5 +1,10 @@
 ### **Credit Card Customer Segmentation Analysis Report**
 
+## Data Source
+This analysis was performed using the **Credit Card Customer Data** dataset, which is publicly available on Kaggle. For more information or access to the dataset, please visit the following link:
+
+[Kaggle: Credit Card Customer Data](https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data)
+
 ## **1. Executive Summary**
 This report analyzes credit card customer data to identify high-risk customers based on factors such as average credit limit, total credit cards, and interactions (visits to the bank, online activity, and call center usage). The insights from the logistic regression model are used to propose actionable business recommendations.
 
